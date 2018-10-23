@@ -42,8 +42,9 @@ Testing
 
 How to get started
 -------------------
-To access the app, go to http://ss.yellowmango.co/
-To know what all can be done on Item Catalog App, see this readme - https://github.com/singhshalinis/itemCatalog/blob/master/readme.md
+* The static IP is 52.89.173.155 and the SSH port is 2200.
+* To access the app, go to http://ss.yellowmango.co/
+* To know what all can be done on Item Catalog App, see this readme - https://github.com/singhshalinis/itemCatalog/blob/master/readme.md
 
 
 References, Credits & Acknowledgements
